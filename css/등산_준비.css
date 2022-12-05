@@ -1,0 +1,8 @@
+body{text-align: center; background-color: #369F36}
+h1{text-align: center; font-family:궁서; font-weight: bolder;}
+h2{text-align: left; font-family:굴림; font-weight: bolder;}
+pre{text-align: left; font-family:굴림;}
+p{text-align: left; font-family:굴림; font-weight: bolder;}
+div{border: 2px solid gray;}
+#target1{ width: 70px; height: 20px; background-color: #FFCCCC;}
+#target2{ width: 120px; height: 20px; background-color: #FFCCCC;}
